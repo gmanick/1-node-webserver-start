@@ -1,6 +1,7 @@
 # 1. 노드 웹 서버 첫 걸음
 
 **Note**
+
 과제를 다운로드하거나 GitHub 클래스룸에 다시 업로드하는 데 문제가 있는 경우 [다음 PDF에서 도움말을 찾으세요](https://github.com/ut-nodejs/ut-nodejs.github.io/raw/master/slides/_3.%20%EA%B3%BC%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%99%80%20%ED%95%B4%EA%B2%B0.pdf).
 
 이 과제는 3 부분으로 나뉩니다.
@@ -16,6 +17,7 @@
 3. listing5.6.**TODO**.js (TODO 있는 파일은 **과제**다)
 
 **Note**
+
 코드를 실행하고 작동하는지 테스트하기 위해 두 가지 선택이 있습니다. (1) `package.json`에서 `"main"` 뒤의 값을 실행하려는 파일의 이름으로 바꾸거나 (2) 모든 코드를 루트 폴더의 `main.js`에 복사하여 붙여넣기(이전 내용 바꾸기)
 
 ### listing5.6 과제
