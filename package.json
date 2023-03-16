@@ -1,8 +1,8 @@
 {
   "name": "1-node-webserver",
-  "version": "1.0.0",
+  "version": "2023.03.17",
   "description": "First Node.js Webserver",
-  "main": "main.js",
+  "main": "practice/lesson-6/listing6.2.js",
   "scripts": {
     "test": "jest"
   },
